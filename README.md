@@ -1,21 +1,48 @@
-<h1 align="center">Hi 👋, I'm Amal Asati</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+# 👋 Hey there! I'm Amal Asati
 
-- 📫 How to reach me **asatiamal@gmail.com**
+Welcome to my GitHub world! 🚀 I'm a Data Scientist with a passion for unraveling data mysteries and transforming them into actionable insights. With a solid background in Statistics and hands-on experience in deploying machine learning solutions, I strive to make data-driven decisions impactful and insightful.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev." height="30" width="40" /></a>
-<a href="https://medium.com/@amalasati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amalasati" height="30" width="40" /></a>
-</p>
+## 💡 About Me
+🎓 Master's in Statistics | 📊 Data Enthusiast | 💻 Python Practitioner
+I thrive on challenging projects and exploring innovative techniques to solve complex problems. From dynamic pricing models to real-time feedback analysis, I've successfully delivered projects that drive business growth and optimize decision-making.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalasati&show_icons=true&locale=en&layout=compact" alt="amalasati" /></p>
+## 🧠 What I Do
+- **Junior Data Scientist @ AI Alpha Tech** *(August 2023 - Present)*
+  - 🔹 Built an AI-powered application screening model using advanced ML algorithms, boosting candidate selection accuracy.
+  - 🔹 Developed a dynamic pricing model, resulting in a **33% revenue increase** for a logistics company through data-driven pricing strategies.
+  - 🔹 Deployed scalable solutions on AWS for real-time processing and seamless model inference.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalasati&show_icons=true&locale=en" alt="amalasati" /></p>
+- **Projects That Excite Me:**
+  - 💬 **Smart Feedback Analysis:** Leveraged NLP and ML to analyze hotel reviews, uncovering valuable sentiment insights.
+  - 🌡️ **Automated Temperature Forecast:** Created a predictive time series model to forecast temperature trends for customizable periods.
+
+---
+
+## 🛠️ My Toolbox
+- **Programming & Tools:** Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit, FastAPI
+- **ML & AI:** Regression, Classification, NLP, Time Series Analysis
+- **Cloud & Deployment:** AWS (Lambda, S3, SNS, SQS)
+- **Data Viz:** PowerBI, Matplotlib, Seaborn
+- **Databases:** MySQL, MS Excel
+
+---
+
+## 🎓 My Academic Journey
+- **M.Sc. in Statistics** — KTHM College, Nashik *(2021 - 2023)*
+- **B.Sc. in Statistics** — SP College, Pune *(2018 - 2021)*
+
+### 📜 Certifications
+- **SAS Programming** — SAS *(March 2023)*
+- **Data Associate** — Symbiosis Skills & Professional University *(May 2022)*
+- **Python Basics for Data Science** — edX *(January 2022)*
+
+---
+
+## 🤝 Let's Connect!
+- [LinkedIn](#) | [GitHub](#) | [Email](mailto:asatiamal@gmail.com)
+If you're into data science, ML, or just love geeking out about data, let's connect! Always up for a chat or collaboration. 😊
+
