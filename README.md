@@ -47,10 +47,12 @@ Hey there! I'm a passionate Data Scientist on a mission to transform complex dat
 - 📊 Data Associate Certification
 - 🐍 Python Basics for Data Science
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
-![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalAsati&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmalAsati&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmalAsati&theme=radical)  
+
 
 ## 🤝 Let's Connect!
 
