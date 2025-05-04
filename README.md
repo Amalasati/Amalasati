@@ -11,20 +11,27 @@ Hey there! I'm a passionate Data Scientist on a mission to transform complex dat
 - 💻 **Junior Data Scientist** at AI Alpha Tech
 - 🧠 Specializing in Machine Learning & Statistical Analysis
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### My Expertise
-- **Machine Learning**: Regression, Classification, NLP
-- **Cloud Deployment**: AWS Lambda, S3, SNS, SQS
-- **Data Visualization**: PowerBI, Matplotlib, Seaborn
-- **Databases**: MySQL, MS Excel
+### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### AI & ML
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4DB6AC?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time_Series-607D8B?style=flat-square)
 
 ## 💼 Professional Highlights
 
