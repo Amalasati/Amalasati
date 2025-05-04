@@ -51,7 +51,6 @@ Hey there! I'm a passionate Data Scientist on a mission to transform complex dat
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalAsati&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmalAsati&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmalAsati&theme=radical)  
 
 
 ## 🤝 Let's Connect!
