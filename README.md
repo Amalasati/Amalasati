@@ -6,10 +6,10 @@
 
 Hey there! I'm a passionate Data Scientist on a mission to transform complex data into powerful insights. With a Master's in Statistics and a love for innovative problem-solving, I breathe life into numbers and algorithms.
 
-### 🚀 Professional Snapshot
-- 🎓 **Master's in Statistics** from KTHM College
-- 💻 **Junior Data Scientist** at AI Alpha Tech
-- 🧠 Specializing in Machine Learning & Statistical Analysis
+## 🎓 Education
+
+- **M.Sc. in Statistics** | K.R.T. Arts, B.H. Commerce and A.M. Science College, Nashik (2021-2023)
+- **B.Sc. in Statistics** | Sir Parashurambhau College, Pune (2018-2021)
 
 ## 🛠️ Tech Stack
 
@@ -54,11 +54,17 @@ Hey there! I'm a passionate Data Scientist on a mission to transform complex dat
 - 📊 Data Associate Certification
 - 🐍 Python Basics for Data Science
 
+## 🚀 What I Do
+
+- Build end-to-end ML pipelines from data preparation to deployment
+- Develop innovative solutions for business problems using data science and AI
+- Create responsive, intelligent chatbots using RAG techniques and LLMs
+- Deploy and monitor ML models in production environments (AWS, Azure)
+
 ## 📈 GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalAsati&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmalAsati&theme=radical)  
-
 
 ## 🤝 Let's Connect!
 
